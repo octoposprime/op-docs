@@ -1,2 +1,2 @@
 # docs
-Documentations
+Documentations for the project
